@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+build/
+*.so
+logs/
+.DS_Store
+weights/
+voc_images/
